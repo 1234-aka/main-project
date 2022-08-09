@@ -28,4 +28,4 @@ Steps to run the code :
                        8) python manage.py runserver and paste the url in chrome 
                        
 
-Add hastags : #TIS , # Ticktech IT Solutions 
+Add hastags : #tis , #ticktechitsolution 
